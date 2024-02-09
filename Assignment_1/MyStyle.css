@@ -1,0 +1,31 @@
+body {
+    background-color: #ACDDE6;
+    font-family: 'Borel';
+    /*text-align: center;*/
+    }
+
+.Header{
+    border-style: dotted;
+    margin: 50px 300px 50px;
+    text-align: center;
+    color: #1D3C44
+    
+}
+h3 {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    color: #1D3C44
+}
+
+p{
+color: #005F76;
+}
+
+.FrontImage{
+    text-align: center;
+    
+}
+
+.FrontImageCaption{
+    text-align: center;
+}
