@@ -1,8 +1,8 @@
 # About Me
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+First Assignment for Platform Computing. Completed using HTML and CSS files.
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Features
 
