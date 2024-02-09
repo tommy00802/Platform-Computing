@@ -24,6 +24,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="https://imgur.com/a/RGiUh55" title='Assignment 1 Screenshot' width='' alt='link to imgur website to show screenshot' />
+![Assignment 1 Screenshot](https://imgur.com/a/RGiUh55)
 
 
 ## Notes:
