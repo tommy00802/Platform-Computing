@@ -25,7 +25,8 @@ The following **bonus** features are implemented:
 
 ![Assignment 1 Screenshot](https://i.imgur.com/MeSiJtU.png)
 
-
+ <img src="NAME_OF_SOURCE.png" title='DESCRIPTION OF IMAGE' width='' alt='DESCRIPTION OF IMAGE' />
+ enter file path in soru
 
 ## Notes:
 None at the moment!
