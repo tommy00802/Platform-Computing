@@ -1,8 +1,9 @@
 # Metric Tracker
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+For this assignment, I had to import my html file from Assignment 1 to React. I then installed selenium for python and created two scripts. A metric tracker 
+for my website and a tutorial selenium script. 
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Features
 
@@ -22,8 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
+https://github.com/tommy00802/Platform-Computing/assets/108912089/c3eb30f2-6681-42d7-bd21-2c7ba64fd893
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
@@ -31,3 +31,5 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
   <li>**Example in bold**</li>
   <li>*Example in italics*</li>
 </ul>
+
+
