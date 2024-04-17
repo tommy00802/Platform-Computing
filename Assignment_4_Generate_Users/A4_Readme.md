@@ -21,8 +21,15 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
+![Image_User_Results](https://github.com/tommy00802/Platform-Computing/assets/108912089/4d3614bc-d047-4acc-bc08-0bd8dc12bb4b)
+Image_User Results
+![Keyword_User_Results](https://github.com/tommy00802/Platform-Computing/assets/108912089/8f5dead3-b58e-4cdc-8b1a-654116fd7afa)
+Keyword_User Results
+![Links_User_Results](https://github.com/tommy00802/Platform-Computing/assets/108912089/4823ece5-6bbb-4d5c-a90e-0f24e412ede9)
+Link_User Results
+![Unique_User_Results](https://github.com/tommy00802/Platform-Computing/assets/108912089/37f7f8f0-b7fc-436c-8cc3-3f7303339d9f)
+Unique_User Results
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
