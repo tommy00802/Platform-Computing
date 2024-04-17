@@ -29,3 +29,14 @@ color: #005F76;
 .FrontImageCaption{
     text-align: center;
 }
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* Adjust the height as necessary */
+}
+
+iframe {
+    margin: auto; /* This helps in centering */
+}
